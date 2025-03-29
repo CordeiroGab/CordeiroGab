@@ -31,8 +31,8 @@
 </div>
 
          
-          
-         
+##
+![snake gif](https://github.com/CordeiroGab/CordeiroGab/blob/output/github-snake-dark.svg)
           
 
       
