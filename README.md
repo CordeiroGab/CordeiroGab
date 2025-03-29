@@ -1,4 +1,4 @@
-## Olá!! Meu nome
+## Olá!! Meu nome é Gabriel
 
 
 - 🔭 Em busca do meu primeiro estágio como desenvolvedor
